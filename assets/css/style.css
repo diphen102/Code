@@ -56,21 +56,16 @@ html {
 }
 
 .mt-8 {
-    margin-top: 8px; !important
+    margin-top: 8px; 
 }
 
 .mt-16 {
-    margin-top: 16px; !important
+    margin-top: 16px;
 }
 
 .pull-right {
-    float: right; !important
+    float: right; 
 }
-
-#main{
-    
-}
-
 
 #header{
     height: 46px;
@@ -182,10 +177,6 @@ html {
     margin-top: 25px;
 } 
 
-
-#content{
-
-}
 
 #content .content-section{
     width: 800px;
