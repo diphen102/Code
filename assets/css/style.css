@@ -186,12 +186,15 @@ html {
 #slider .text-heading {
     font-weight: 500;
     font-size: 72px;
+    text-shadow: 0 0 2px #000;
 
 } 
 
 #slider .text-des {
     font-size: 45px;
-    margin-top: 25px;
+    margin-top: 20px;
+    text-shadow: 0 0 2px #000;
+
 } 
 
 
@@ -325,6 +328,8 @@ html {
     cursor: pointer;
     border: none;
     text-align: center;
+    appearance: none;
+    -webkit-appearance: none;
 }
 
 .btn:hover{
